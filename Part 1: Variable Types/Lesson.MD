@@ -10,9 +10,9 @@ To kick us off, we'll focus on three really basic ones:
 #### Strings
 Python strings are used to store text and characters. For example:
 
-  -'hello'
-  -'world'
-  -'10'
+  - 'hello'
+  - 'world'
+  - '10'
   
 We make an object a string by putting either single or double quotation marks on either side. Put simple, "sample string" is the same as 'sample string'. 
 
