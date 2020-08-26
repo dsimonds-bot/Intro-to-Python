@@ -23,4 +23,6 @@ Starting with floats and integers, standard numeric operations are fair game. Fo
   `greeting = 'hello' + ' ' + 'world'` <br/>
   `response = 'hey' + ' ' + 'there!'` <br/>
   
-  However, as you'd imagine, we can't simply subtract out letters. Try subtracting two strings 
+  However,  we can't simply subtract out letters. Try subtracting two strings, and you'll likely see an error returned.
+  
+  As you may imagine, there are a million and one different ways we may create a new variable. As your python skills grow, so will the complexity of the data stored within your variables. For now, we'll stick with floats, integers, and strings. 
