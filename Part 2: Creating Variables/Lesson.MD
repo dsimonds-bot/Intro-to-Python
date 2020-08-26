@@ -26,3 +26,12 @@ Starting with floats and integers, standard numeric operations are fair game. Fo
   However,  we can't simply subtract out letters. Try subtracting two strings, and you'll likely see an error returned.
   
   As you may imagine, there are a million and one different ways we may create a new variable. As your python skills grow, so will the complexity of the data stored within your variables. For now, we'll stick with floats, integers, and strings. 
+  
+  #### Equivalency Tricks
+  As we've discussed, assigning a variable most often happens with the equals sign. We can, however, do some clever tricks on either side of this equals sign to make our lives easier. 
+  
+  Let's say we want to assign mutliple variables within one step. Python will actually interpret the position we place the variables when it assigns them. To demnonstrate, try running the following:
+  
+  `a,b = 10,'cat'` </br>
+  `print(a)` </br>
+  `print(b)` </br>
