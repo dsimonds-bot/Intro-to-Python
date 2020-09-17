@@ -28,3 +28,8 @@ To show this in practice, let's do three steps. Importing numpy, creating a list
 
 `# Calculating the sum with method` </br>
 `print(np.sum(a))` </br>
+`Output: 8685` </br>
+
+There are bunches of different methods within the numpy package, which is part of the reason it is so popular. There are methods to generate random values in a list, uniform distributions, and even fitting a basic model. To see a full list of numpy methods, see here:
+
+https://numpy.org/doc/stable/reference/arrays.ndarray.html#
